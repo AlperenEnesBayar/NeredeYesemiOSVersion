@@ -57,7 +57,9 @@ struct NeredeYesemiOSApp: App {
                 
             }
         }
-        
-        
+        else
+        {
+            self.isUnlock = true
+        }
     }
 }
