@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D80CE814265A73F200BB2A80 /* RestaurantResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D80CE813265A73F200BB2A80 /* RestaurantResultsView.swift */; };
+		D81B68CF265CD2D200EA6115 /* APISettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = D81B68CE265CD2D200EA6115 /* APISettings.swift */; };
 		D8951BC7265B7E6E009F8A2A /* DBFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8951BC6265B7E6E009F8A2A /* DBFile.swift */; };
 		D8B631FD265A61C6009AAC66 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B631FC265A61C6009AAC66 /* ProfileView.swift */; };
 		D8CF292E26590DD200630AC6 /* NeredeYesemiOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CF292D26590DD200630AC6 /* NeredeYesemiOSApp.swift */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		D80CE813265A73F200BB2A80 /* RestaurantResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantResultsView.swift; sourceTree = "<group>"; };
+		D81B68CE265CD2D200EA6115 /* APISettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APISettings.swift; sourceTree = "<group>"; };
 		D8951BC6265B7E6E009F8A2A /* DBFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBFile.swift; sourceTree = "<group>"; };
 		D8B631FC265A61C6009AAC66 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		D8CF292A26590DD200630AC6 /* NeredeYesemiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NeredeYesemiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,6 +74,7 @@
 				D8CF293126590DD300630AC6 /* Assets.xcassets */,
 				D8CF293626590DD300630AC6 /* Info.plist */,
 				D8CF293326590DD300630AC6 /* Preview Content */,
+				D81B68CE265CD2D200EA6115 /* APISettings.swift */,
 			);
 			path = NeredeYesemiOS;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				D8CF292E26590DD200630AC6 /* NeredeYesemiOSApp.swift in Sources */,
 				D8B631FD265A61C6009AAC66 /* ProfileView.swift in Sources */,
 				D8CF293F265914EE00630AC6 /* Restaurant.swift in Sources */,
+				D81B68CF265CD2D200EA6115 /* APISettings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
